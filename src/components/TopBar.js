@@ -1,5 +1,5 @@
 import React from 'react'
-import avatar from '../assets/images/kkk.jpeg'
+import avatar from '../assets/images/avatar.jpg'
 
 function TopBar() {
     return (
